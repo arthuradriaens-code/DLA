@@ -72,6 +72,6 @@ def animate(i):
 anim = FuncAnimation(fig, animate,frames=calctime, interval=40)
 anim.save('DLA.mp4')
 ax.clear()
-ax.imshow(DLA,origin='lower')
+ax.imshow(DLA,origin='lower',interpolation='nearest')
 plt.savefig('final.pdf')
 plt.savefig('final.png')
