@@ -3,5 +3,4 @@
 This is software simulating Diffusion Limited Aggregation:
 
 
-
-[final.pdf](https://github.com/arthuradriaens-code/DLA/files/9226567/final.png)
+![final](https://user-images.githubusercontent.com/66306556/181917645-5481ab08-89e0-472c-8112-d4346a1c0a5e.png)
